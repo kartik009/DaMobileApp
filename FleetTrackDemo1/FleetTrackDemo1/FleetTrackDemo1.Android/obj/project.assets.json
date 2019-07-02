@@ -801,11 +801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.Android\\FleetTrackDemo1.Android.csproj",
+      "projectUniqueName": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.Android\\FleetTrackDemo1.Android.csproj",
       "projectName": "FleetTrackDemo1.Android",
-      "projectPath": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.Android\\FleetTrackDemo1.Android.csproj",
+      "projectPath": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.Android\\FleetTrackDemo1.Android.csproj",
       "packagesPath": "C:\\Users\\kartik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.Android\\obj\\",
+      "outputPath": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -827,8 +827,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj": {
-              "projectPath": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj"
+            "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj": {
+              "projectPath": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj"
             }
           }
         }

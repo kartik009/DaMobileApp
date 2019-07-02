@@ -350,11 +350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj",
+      "projectUniqueName": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj",
       "projectName": "FleetTrackDemo1",
-      "projectPath": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj",
+      "projectPath": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj",
       "packagesPath": "C:\\Users\\kartik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\obj\\",
+      "outputPath": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

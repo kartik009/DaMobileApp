@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.iOS\\FleetTrackDemo1.iOS.csproj",
+      "projectUniqueName": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.iOS\\FleetTrackDemo1.iOS.csproj",
       "projectName": "FleetTrackDemo1.iOS",
-      "projectPath": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.iOS\\FleetTrackDemo1.iOS.csproj",
+      "projectPath": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.iOS\\FleetTrackDemo1.iOS.csproj",
       "packagesPath": "C:\\Users\\kartik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.iOS\\obj\\",
+      "outputPath": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -746,8 +746,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj": {
-              "projectPath": "C:\\Users\\kartik\\source\\repos\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj"
+            "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj": {
+              "projectPath": "D:\\Project\\InternShip\\New one\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1\\FleetTrackDemo1.csproj"
             }
           }
         }
