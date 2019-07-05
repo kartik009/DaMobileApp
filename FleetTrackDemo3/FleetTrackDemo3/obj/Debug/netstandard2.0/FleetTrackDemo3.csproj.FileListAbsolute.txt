@@ -1,0 +1,16 @@
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\bin\Debug\netstandard2.0\FleetTrackDemo3.deps.json
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\bin\Debug\netstandard2.0\FleetTrackDemo3.dll
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\bin\Debug\netstandard2.0\ref\FleetTrackDemo3.dll
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\bin\Debug\netstandard2.0\FleetTrackDemo3.pdb
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\FleetTrackDemo3.csprojAssemblyReference.cache
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\View\FinalFleet.xaml.g.cs
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\View\FleetList.xaml.g.cs
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\View\LogIN.xaml.g.cs
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\FleetTrackDemo3.csproj.CoreCompileInputs.cache
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\FleetTrackDemo3.AssemblyInfoInputs.cache
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\FleetTrackDemo3.AssemblyInfo.cs
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\FleetTrackDemo3.dll
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\ref\FleetTrackDemo3.dll
+C:\Users\kartik\source\repos\FleetTrackDemo3\FleetTrackDemo3\FleetTrackDemo3\obj\Debug\netstandard2.0\FleetTrackDemo3.pdb
