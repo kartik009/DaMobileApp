@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720750551530",
+    "firebase_url": "https://fleettrackxamarinapp.firebaseio.com",
+    "project_id": "fleettrackxamarinapp",
+    "storage_bucket": "fleettrackxamarinapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720750551530:android:f0dfdc5ccd8b02c3",
+        "android_client_info": {
+          "package_name": "com.LK.FleetTrackApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720750551530-5kn2gsmuc7ujdtkljk3bn5gptk04nkav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9UKUTQbixutUURgJzzqfPkRz8UZ8qO5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720750551530-5kn2gsmuc7ujdtkljk3bn5gptk04nkav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

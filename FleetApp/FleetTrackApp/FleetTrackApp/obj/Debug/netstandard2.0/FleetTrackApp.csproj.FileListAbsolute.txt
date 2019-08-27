@@ -1,0 +1,16 @@
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\bin\Debug\netstandard2.0\FleetTrackApp.deps.json
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\bin\Debug\netstandard2.0\FleetTrackApp.dll
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\bin\Debug\netstandard2.0\ref\FleetTrackApp.dll
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\bin\Debug\netstandard2.0\FleetTrackApp.pdb
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\View\FinalFleet.xaml.g.cs
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\View\FleetList.xaml.g.cs
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\View\LogIN.xaml.g.cs
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\FleetTrackApp.csproj.CoreCompileInputs.cache
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\FleetTrackApp.AssemblyInfoInputs.cache
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\FleetTrackApp.AssemblyInfo.cs
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\FleetTrackApp.dll
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\ref\FleetTrackApp.dll
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\FleetTrackApp.pdb
+C:\Users\kartik\source\repos\FleetApp\FleetTrackApp\FleetTrackApp\obj\Debug\netstandard2.0\FleetTrackApp.csprojAssemblyReference.cache
